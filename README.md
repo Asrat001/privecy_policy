@@ -30,19 +30,6 @@ This Privacy Notice for __________ ("we," "us," or "our"), describes how and why
 
 Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](#toc).
 
-## TABLE OF CONTENTS
-
-1. [WHAT INFORMATION DO WE COLLECT?](#infocollect)
-2. [HOW DO WE PROCESS YOUR INFORMATION?](#infouse)
-3. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
-4. [DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#cookies)
-5. [HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
-6. [WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
-7. [CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
-8. [DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
-9. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
-10. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
-
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
 ### Personal information you disclose to us
